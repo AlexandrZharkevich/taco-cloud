@@ -1,0 +1,13 @@
+.grid{
+    display: flex;
+}
+
+.ingredient-group{
+    flex: 50%;
+}
+
+.validationError{
+    color: red;
+    font-style: italic;
+}
+
